@@ -1,0 +1,75 @@
+div {
+    font-family: Helvetica;
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+}
+
+#topMenu {
+    font-family: Helvetica;
+    background-color: #e6e8e6;
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#jumpman {
+    width: 20px;
+}
+
+#converse {
+    width: 27px;
+}
+
+#nav_bar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.items:hover {
+    opacity: 0.5;
+}
+
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
+
+#swoosh {
+    width: 50px;
+}
+
+#favs {
+    width: 30px;
+}
+
+#cart {
+    width: 30px;
+}
+
+#deals {
+    font-family: Helvetica;
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#joinLink {
+    font-family: Helvetica;
+    background-color: #e6e8e6;
+    color: black;
+    font-size: 13px;
+    text-decoration: none;
+    padding: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#featured {
+    width: 1366px;
+}
